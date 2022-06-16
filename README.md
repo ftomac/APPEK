@@ -13,3 +13,5 @@ Korištene tehnologije:
 - ASP.NET
 - IIS
 - MySQL
+
+*Aplikacija je izrađena međusobnim sudjelovanjem članica tima u svim dijelovima programskog koda. Greške i problemi nastali kroz razvoj aplikacije, savladani su zajedničkim istraživanjem i isprobavanjem mogućih rješenja. 
